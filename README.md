@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-   <img src="result.PNG" width="400px"
+   <img src="result.PNG" width="1000px"
  </p>
 
 <p align="center">
@@ -24,7 +24,6 @@
   <a href="#closed_book-licença">Licença</a>
 </p>
 
-<p align="center"> Para rodar o projeto basta clicar no  <a href="https://jeffersonsilemen.github.io/starbucks/">link</a>.</p>
 
 ## :clipboard: Sobre o Projeto
 
